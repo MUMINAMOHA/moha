@@ -1,0 +1,38 @@
+body{
+  background-color: wheat
+}
+h1::first-letter{
+  font-size:200%;
+  color:teal;}
+#my-name {
+  color:orange;
+  text-align:center;
+}
+#mumina{
+  color:teal;}
+  #munah{display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 550px
+}#mumina{text-align:center;}
+#moha{text-align: center;
+color: orange}
+#halima{margin-left: auto;
+margin-right: auto;}
+#d{text-align: center;
+background-color: orange;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+display: block;}
+#d:hover{background-color: purple}
+#munah:hover {
+  transform: scale(1.1);
+}
+
+.jibo {
+  list-style-type: none;
+}
+.jibo:hover {
+  color: teal;
+}
